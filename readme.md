@@ -51,12 +51,12 @@ If you use **SCADA-MV-IDS** in your research, please cite our paper:
 
 ```bibtex
 @article{Espindola2025SCADAMVIDS,
-  author    = {Allan Espindola and Eduardo Viegas and Antonio Casimiro and Altair Santin and Pedro Ferreira},
+  author    = {Allan Espindola and Antonio Casimiro and Altair Santin and Pedro Ferreira and Eduardo Viegas},
   title     = {Enhancing Intrusion Detection Generalization via Diversity-Driven Multi-View Ensemble Learning in Industrial Systems},
-  journal   = {Elsevier Journal of Network and Computer Applications},
+  journal   = {Elsevier Journal of Future Generation Computer Systems},
   year      = {2025},
   publisher = {IEEE},
-  doi       = {10.XXXX/jnca.XXXXXXX}
+  doi       = {10.XXXX/FGCS.XXXXXXX}
 }
 ```
 For the implementation and experiments used in the paper, see the [code repository](https://github.com/espindolaallan/dime-ids).
